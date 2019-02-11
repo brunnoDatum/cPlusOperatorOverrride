@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/GAME1011_Lab2_TripovichyBrunno.dir/main.cpp.o CMakeFiles/GAME1011_Lab2_TripovichyBrunno.dir/Character.cpp.o CMakeFiles/GAME1011_Lab2_TripovichyBrunno.dir/Weapon.cpp.o CMakeFiles/GAME1011_Lab2_TripovichyBrunno.dir/Armour.cpp.o  -o GAME1011_Lab2_TripovichyBrunno 

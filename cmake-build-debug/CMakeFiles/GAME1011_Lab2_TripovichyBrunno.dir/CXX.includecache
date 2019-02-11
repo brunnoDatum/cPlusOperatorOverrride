@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/btripovichy/CLionProjects/GAME1011_Lab2_TripovichyBrunno/Armour.h
+string
+-
+vector
+-
+iostream
+-
+
+/Users/btripovichy/CLionProjects/GAME1011_Lab2_TripovichyBrunno/Character.cpp
+Character.h
+/Users/btripovichy/CLionProjects/GAME1011_Lab2_TripovichyBrunno/Character.h
+
+/Users/btripovichy/CLionProjects/GAME1011_Lab2_TripovichyBrunno/Character.h
+string
+-
+iostream
+-
+Weapon.h
+/Users/btripovichy/CLionProjects/GAME1011_Lab2_TripovichyBrunno/Weapon.h
+Armour.h
+/Users/btripovichy/CLionProjects/GAME1011_Lab2_TripovichyBrunno/Armour.h
+
+/Users/btripovichy/CLionProjects/GAME1011_Lab2_TripovichyBrunno/Weapon.h
+string
+-
+vector
+-
+iostream
+-
+
